@@ -1,0 +1,1 @@
+art.lua is the script that copies the pixel art and is entirly made by us. The script, newPrint.lua, is the script that prints out the the pixel art desing and was made with help from the open router model xAI: Grok Code Fast 1 for reading the text file and selecting the correct block.
